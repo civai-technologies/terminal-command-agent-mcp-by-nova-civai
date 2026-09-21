@@ -1,0 +1,21 @@
+{
+  "slug": "terminal-command-agent",
+  "repo": "terminal-command-agent-mcp-by-nova-civai",
+  "github_url": "https://github.com/civai-technologies/terminal-command-agent-mcp-by-nova-civai",
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "mcp-server",
+    "nova-by-civai",
+    "civai",
+    "cursor",
+    "claude-desktop",
+    "streamable-http",
+    "remote-mcp",
+    "terminal",
+    "shell",
+    "cli",
+    "command"
+  ],
+  "mcp_url": "https://nova.civai.co/mcp/agents/terminal-command-agent"
+}
