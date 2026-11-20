@@ -1,7 +1,7 @@
 {
   "name": "terminal-command-agent",
   "version": "1.0.0",
-  "description": "I run shell commands on your private cloud environment (bash, sh, zsh)",
+  "description": "Run bash, sh or zsh commands in a private cloud environment and return the output.",
   "mcpServers": {
     "terminal-command-agent-by-nova": {
       "httpUrl": "https://nova.civai.co/mcp/agents/terminal-command-agent",

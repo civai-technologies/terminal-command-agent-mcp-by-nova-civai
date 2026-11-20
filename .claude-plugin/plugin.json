@@ -3,7 +3,7 @@
   "name": "terminal-command-agent-by-nova",
   "displayName": "Terminal Command Agent by Nova (CIVAI)",
   "version": "1.0.0",
-  "description": "I run shell commands on your private cloud environment (bash, sh, zsh)",
+  "description": "Run bash, sh or zsh commands in a private cloud environment and return the output.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co",
